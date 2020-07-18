@@ -11,7 +11,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree'
 Plug 'yianwillis/vimcdoc'
 Plug 'tpope/vim-surround'
-Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
 Plug 'https://github.com/easymotion/vim-easymotion'
 call plug#end()
 " vim-plug end
